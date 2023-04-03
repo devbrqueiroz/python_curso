@@ -5,5 +5,5 @@
 Vamos começar os estudo de python para ver o que aconteve
 
 ```
-Vamos usar o pyCharm
+node app.js
 ```
