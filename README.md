@@ -7,3 +7,4 @@ Vamos começar os estudo de python para ver o que aconteve
 ```
 node app.js
 ```
+:)
